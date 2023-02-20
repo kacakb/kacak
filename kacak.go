@@ -1,4 +1,4 @@
-package kacak
+package main
 
 import (
 	"bufio"
