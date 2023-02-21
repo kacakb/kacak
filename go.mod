@@ -1,3 +1,3 @@
-module github.com/kacakb/kacak
+module QQQ
 
 go 1.20
